@@ -14,7 +14,7 @@
   <img alt="Etcd" src="https://img.shields.io/badge/-Etcd-5849BE?style=flat-square&logo=etcd&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <a href="https://github.com/kubeclipper-labs/kubeclipper?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+  <a href="https://github.com/kubeclipper/kubeclipper?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 </p>
 
 <h3>Open source projects</h3>
@@ -30,25 +30,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kubeclipper-labs/kubeclipper"><b>KubeClipper</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kubeclipper-labs/kubeclipper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kubeclipper-labs/kubeclipper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kubeclipper-labs/kubeclipper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubeclipper-labs/kubeclipper?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/kubeclipper/kubeclipper"><b>KubeClipper</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kubeclipper/kubeclipper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kubeclipper/kubeclipper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kubeclipper/kubeclipper?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubeclipper/kubeclipper?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/kubeclipper-labs/console"><b>KubeClipper Console</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kubeclipper-labs/console?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kubeclipper-labs/console?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kubeclipper-labs/console?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubeclipper-labs/console?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/kubeclipper/console"><b>KubeClipper Console</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kubeclipper/console?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kubeclipper/console?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kubeclipper/console?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubeclipper/console?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kubeclipper-labs/community"><b>KubeClipper Community</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kubeclipper-labs/community?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kubeclipper-labs/community?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kubeclipper-labs/community?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubeclipper-labs/community?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/kubeclipper/community"><b>KubeClipper Community</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kubeclipper/community?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kubeclipper/community?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kubeclipper/community?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kubeclipper/community?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -57,10 +57,10 @@
 <p>
     <ul>
       <li>
-        <a href="https://github.com/kubeclipper-labs/kubeclipper#quick-start">Quick Start</a>
+        <a href="https://github.com/kubeclipper/kubeclipper#quick-start">Quick Start</a>
       </li>
       <li>
-        <a href="https://github.com/kubeclipper-labs/kubeclipper#contributing">Contributing</a>
+        <a href="https://github.com/kubeclipper/kubeclipper#contributing">Contributing</a>
       </li>
     </ul>
 </p>
